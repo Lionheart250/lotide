@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "lionheart250/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://docs.npmjs.com/files/package.json#description-1",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/Lionheart250/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://docs.npmjs.com/files/package.json#people-fields-author-contributors",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Lionheart250/lotide/issues"
